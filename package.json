@@ -1,0 +1,15 @@
+{
+  "name": "Discord-Krunker-host-DJS",
+  "version": "1.0.0",
+  "description": "i am google translate but acurate",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo whats a test && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.0.1"
+  }
+}
